@@ -1,0 +1,576 @@
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\appsettings.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.staticwebassets.runtime.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.staticwebassets.endpoints.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.exe
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.deps.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.runtimeconfig.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.pdb
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.csproj.AssemblyReference.cache
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.AssemblyInfoInputs.cache
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.AssemblyInfo.cs
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.RazorAssemblyInfo.cache
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.RazorAssemblyInfo.cs
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\scopedcss\bundle\WebsiteBanHang.styles.css
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\scopedcss\projectbundle\WebsiteBanHang.bundle.scp.css
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\ht9a5wx6uj-61n19gt1b8.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\v1dgmto0c6-xtxxf3hu2r.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\0wlp2npf9q-bqjiyaj88i.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\qfi5odf45y-c2jlpeoesf.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\7xebzs6stk-erw9l3u2r3.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\50sqhdbi79-aexeepp0ev.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\9mpe7nmii9-d7shbmvgxk.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\6qi2ghz7iv-ausgxo2sd3.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\e0m4reesh7-k8d9w2qqmf.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\r8c3y485fv-cosvhxvwiu.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\y7kztmw0tw-ub07r2b239.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\w3al4rrgrb-fvhpjtyr6v.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\v41lfjd2dg-b7pk76d08c.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\hn1d1bbcfo-fsbi9cje9m.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\pv21vtf32x-rzd6atqjts.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\3c58h1q4tn-ee0r1s7dh0.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\pqbuipkw6h-dxx9fxp4il.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\f514wzyc37-jd9uben2k1.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\fck6zlumox-khv3u5hwcm.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\po1xrm0o6q-r4e9w2rdcm.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\83erwd3hsv-lcd1t2u6c8.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\mspan468sr-c2oey78nd0.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\t5n529z3a1-tdbxkamptv.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\uqvfvpofqz-j5mq2jizvt.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\kep9mux5xx-06098lyss8.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\0q1e3awyly-nvvlpmu67g.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\o04gibfljf-s35ty4nyc5.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\08hv3a6xpy-pj5nd1wqec.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\sggg5bv3xy-46ein0sx1k.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\gnc3w522t9-v0zj4ognzu.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\uehy6sasa5-37tfw0ft22.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\8g1tl3x1m4-hrwsygsryq.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\qjk9gryp3d-pk9g2wxc8p.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\f9tjggv8i2-ft3s53vfgj.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\gz5nm88kiz-6cfz1n2cew.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\ygnyjcnsz0-6pdc2jztkx.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\y6n7xfbu9n-493y06b0oq.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\0aanqqr0v6-iovd86k7lj.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\z5jaa42p9k-vr1egmr9el.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\7w4b8w52td-kbrnm935zg.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\biz84panlk-jj8uyg4cgr.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\8efckyh7hh-y7v9cxd14o.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\hukbst0shb-notf2xhcfb.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\xg44mzz8aw-h1s4sie4z3.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\pre0cn4x3x-63fj8s7r0e.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\k9l1cnfr5y-0j3bgjxly4.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\yq0fyy9boj-47otxtyo56.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\1r33qnfuhu-4v8eqarkd7.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\zk9k100xwu-356vix0kms.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\lbqv7jya09-83jwlth58m.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\pig3zzduil-mrlpezrjn3.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\486cucb4y6-lzl9nlhx6b.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\9pnw1puqna-ag7o75518u.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\mym8o7ghyp-x0q3zqp4vz.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\s0zpluwdsy-0i3buxo5is.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\n12cm0re2c-o1o13a6vjx.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\02ywwqalrk-ttgo8qnofa.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\llsv8fqobw-2z0ns9nrw6.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\r98tldawi2-muycvpuwrr.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\aa9vrnlvdk-87fc7y1x7t.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\pdtdqw75rs-mlv21k5csn.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\vi5ewtjpuq-arhtti33gg.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\a15vver565-arhtti33gg.gz
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.build.WebsiteBanHang.props
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebsiteBanHang.props
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebsiteBanHang.props
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteB.A55AFA1D.Up2Date
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\refint\WebsiteBanHang.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.pdb
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.genruntimeconfig.cache
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\ref\WebsiteBanHang.dll
+C:\Users\Thanh Uyen\source\repos\WebsiteBanHang\WebsiteBanHang\obj\Debug\net9.0\compressed\cqj9zjkuoa-qvvuhkrr8k.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\appsettings.Development.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\appsettings.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.staticwebassets.runtime.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.staticwebassets.endpoints.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.exe
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.deps.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.runtimeconfig.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\WebsiteBanHang.pdb
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Humanizer.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.Common.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.CodeDom.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.AssemblyInfoInputs.cache
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.AssemblyInfo.cs
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cache
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.RazorAssemblyInfo.cache
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.RazorAssemblyInfo.cs
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.sourcelink.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\scopedcss\bundle\WebsiteBanHang.styles.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\scopedcss\projectbundle\WebsiteBanHang.bundle.scp.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\ysgzcn9ro6-yz9xzto013.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\cqj9zjkuoa-qvvuhkrr8k.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\ht9a5wx6uj-61n19gt1b8.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\8nqvqtw3aq-v711epszjf.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\v1dgmto0c6-xtxxf3hu2r.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\0wlp2npf9q-bqjiyaj88i.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\qfi5odf45y-c2jlpeoesf.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\7xebzs6stk-erw9l3u2r3.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\50sqhdbi79-aexeepp0ev.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\9mpe7nmii9-d7shbmvgxk.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\6qi2ghz7iv-ausgxo2sd3.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\e0m4reesh7-k8d9w2qqmf.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\r8c3y485fv-cosvhxvwiu.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\y7kztmw0tw-ub07r2b239.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\w3al4rrgrb-fvhpjtyr6v.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\v41lfjd2dg-b7pk76d08c.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\hn1d1bbcfo-fsbi9cje9m.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\pv21vtf32x-rzd6atqjts.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\3c58h1q4tn-ee0r1s7dh0.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\pqbuipkw6h-dxx9fxp4il.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\f514wzyc37-jd9uben2k1.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\fck6zlumox-khv3u5hwcm.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\po1xrm0o6q-r4e9w2rdcm.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\83erwd3hsv-lcd1t2u6c8.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\mspan468sr-rw0o5xejqz.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\t5n529z3a1-tdbxkamptv.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\uqvfvpofqz-j5mq2jizvt.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\kep9mux5xx-06098lyss8.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\0q1e3awyly-nvvlpmu67g.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\o04gibfljf-s35ty4nyc5.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\08hv3a6xpy-pj5nd1wqec.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\sggg5bv3xy-46ein0sx1k.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\gnc3w522t9-v0zj4ognzu.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\uehy6sasa5-37tfw0ft22.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\8g1tl3x1m4-hrwsygsryq.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\qjk9gryp3d-pk9g2wxc8p.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\f9tjggv8i2-ft3s53vfgj.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\gz5nm88kiz-6cfz1n2cew.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\ygnyjcnsz0-6pdc2jztkx.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\y6n7xfbu9n-493y06b0oq.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\0aanqqr0v6-iovd86k7lj.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\z5jaa42p9k-vr1egmr9el.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\7w4b8w52td-kbrnm935zg.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\biz84panlk-jj8uyg4cgr.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\8efckyh7hh-y7v9cxd14o.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\hukbst0shb-notf2xhcfb.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\xg44mzz8aw-h1s4sie4z3.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\pre0cn4x3x-63fj8s7r0e.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\k9l1cnfr5y-0j3bgjxly4.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\yq0fyy9boj-47otxtyo56.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\1r33qnfuhu-4v8eqarkd7.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\7ummdz1vij-47otxtyo56.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\j9za7znkqs-4v8eqarkd7.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\zk9k100xwu-356vix0kms.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\lbqv7jya09-83jwlth58m.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\pig3zzduil-mrlpezrjn3.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\486cucb4y6-lzl9nlhx6b.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\9pnw1puqna-ag7o75518u.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\mym8o7ghyp-x0q3zqp4vz.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\s0zpluwdsy-0i3buxo5is.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\n12cm0re2c-o1o13a6vjx.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\02ywwqalrk-ttgo8qnofa.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\llsv8fqobw-2z0ns9nrw6.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\r98tldawi2-muycvpuwrr.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\aa9vrnlvdk-87fc7y1x7t.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\pdtdqw75rs-mlv21k5csn.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\i68vy4qwd4-tbns9mveyb.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\vi5ewtjpuq-arhtti33gg.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\compressed\a15vver565-arhtti33gg.gz
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.development.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.build.WebsiteBanHang.props
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebsiteBanHang.props
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebsiteBanHang.props
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.pack.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteB.A55AFA1D.Up2Date
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\refint\WebsiteBanHang.dll
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.pdb
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\WebsiteBanHang.genruntimeconfig.cache
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\obj\Debug\net9.0\ref\WebsiteBanHang.dll

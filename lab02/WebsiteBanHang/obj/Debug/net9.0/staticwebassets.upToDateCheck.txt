@@ -1,0 +1,154 @@
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\dist\jquery.min.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\index.html
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\css\site.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\favicon.ico
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\productPage.html
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation\LICENSE.md
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\dist\jquery.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\LICENSE.txt
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery\dist\jquery.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\js\site.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\Animation - 1740815916914.json
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\AAAProject\TH Lập Trình WEB\Edu_WEB2025\lab02\WebsiteBanHang\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Animation - 1740815916914.json
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\465458471_913196200904850_3986824470950743245_n.jpg
+wwwroot\images\burnice-meme-faces-for-your-meme-collection-v0-jlwau4mhvwqd1.webp
+wwwroot\images\Castorice.webp
+wwwroot\images\Elysia.webp
+wwwroot\images\facebook.png
+wwwroot\images\Firefly.webp
+wwwroot\images\Furina.webp
+wwwroot\images\Gạo confuse.png
+wwwroot\images\instagram.png
+wwwroot\images\Keqing.jpg
+wwwroot\images\kokona reading.gif
+wwwroot\images\Kokona.webp
+wwwroot\images\linkedin.png
+wwwroot\images\măm dốc.jpg
+wwwroot\images\sonlol.jpg
+wwwroot\images\Sonsmom.jpg
+wwwroot\images\Tribbie.webp
+wwwroot\images\twitter.png
+wwwroot\images\Yotsuba.png
+wwwroot\index.html
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\productPage.html

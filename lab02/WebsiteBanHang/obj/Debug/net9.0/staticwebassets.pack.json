@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebsiteBanHang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteBanHang.arhtti33gg.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\Animation - 1740815916914.json",
+      "PackagePath": "staticwebassets\\Animation - 1740815916914.json"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\465458471_913196200904850_3986824470950743245_n.jpg",
+      "PackagePath": "staticwebassets\\images\\465458471_913196200904850_3986824470950743245_n.jpg"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Castorice.webp",
+      "PackagePath": "staticwebassets\\images\\Castorice.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Elysia.webp",
+      "PackagePath": "staticwebassets\\images\\Elysia.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Firefly.webp",
+      "PackagePath": "staticwebassets\\images\\Firefly.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Furina.webp",
+      "PackagePath": "staticwebassets\\images\\Furina.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Gạo confuse.png",
+      "PackagePath": "staticwebassets\\images\\Gạo confuse.png"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Keqing.jpg",
+      "PackagePath": "staticwebassets\\images\\Keqing.jpg"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Kokona.webp",
+      "PackagePath": "staticwebassets\\images\\Kokona.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Sonsmom.jpg",
+      "PackagePath": "staticwebassets\\images\\Sonsmom.jpg"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Tribbie.webp",
+      "PackagePath": "staticwebassets\\images\\Tribbie.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\Yotsuba.png",
+      "PackagePath": "staticwebassets\\images\\Yotsuba.png"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\burnice-meme-faces-for-your-meme-collection-v0-jlwau4mhvwqd1.webp",
+      "PackagePath": "staticwebassets\\images\\burnice-meme-faces-for-your-meme-collection-v0-jlwau4mhvwqd1.webp"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\kokona reading.gif",
+      "PackagePath": "staticwebassets\\images\\kokona reading.gif"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\măm dốc.jpg",
+      "PackagePath": "staticwebassets\\images\\măm dốc.jpg"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\sonlol.jpg",
+      "PackagePath": "staticwebassets\\images\\sonlol.jpg"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\AAAProject\\TH Lập Trình WEB\\Edu_WEB2025\\lab02\\WebsiteBanHang\\wwwroot\\productPage.html",
+      "PackagePath": "staticwebassets\\productPage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebsiteBanHang.props",
+      "PackagePath": "build\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteBanHang.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebsiteBanHang.props",
+      "PackagePath": "buildTransitive\\WebsiteBanHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

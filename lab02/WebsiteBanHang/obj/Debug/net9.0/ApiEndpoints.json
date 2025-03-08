@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebsiteBanHang.Controllers.ProductApiController",
+    "Method": "GetProducts",
+    "RelativePath": "api/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
